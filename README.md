@@ -18,5 +18,5 @@ This is a Shiny App I coded using R to determine the effectiveness of the best C
 * Provided data insights of cricket legends using visualizations.
 * Interactive app based development.
 
-* 
+  
 
