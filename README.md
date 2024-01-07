@@ -17,7 +17,8 @@ This is a Shiny App I coded using R to determine the effectiveness of the best C
 * Cleaned data to set up a smooth coding process.
 * Provided data insights of cricket legends using visualizations.
 * Interactive app based development.
+  
 
-[Link to App](http://127.0.0.1:5529/)
+
   
 
