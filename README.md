@@ -10,7 +10,7 @@ This is a project where I analyzed correlations between police shootings and vic
 * Project Write up is included in the URL
 
 
-# [Project: International Cricket Shiny App](url)
+# [Project: International Cricket Shiny App](https://github.com/vhalaharivi26/Project-International-Cricket-Shiny-App.git)
 This is a Shiny App I coded using R to determine the effectiveness of the best Cricket batsmen in history:
 
 * Data was taken from most runs dataset in kaggle.
