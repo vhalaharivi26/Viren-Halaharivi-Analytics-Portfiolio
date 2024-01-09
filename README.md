@@ -19,7 +19,7 @@ This is a Shiny App I coded using R to determine the effectiveness of the best C
 * Interactive app based development
   
 
-#[Testing Goodness of Fit](url)
+# [Testing Goodness of Fit](url)
 This is a lab I used to test goodness of fit models including chi squares tests.
 
 * Used plethora of R commands to simulate and analyze test statistics
